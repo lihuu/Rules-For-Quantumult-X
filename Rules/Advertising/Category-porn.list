@@ -396,7 +396,7 @@ HOST-SUFFIX,uun97.com,REJECT
 HOST-SUFFIX,uun98.com,REJECT
 HOST-SUFFIX,uun99.com,REJECT
 HOST-SUFFIX,uux68.com,REJECT
-HOST-SUFFIX,collector.xhamster.com @ads,REJECT
+HOST-SUFFIX,collector.xhamster.com,REJECT
 HOST-SUFFIX,xhamster.com,REJECT
 HOST-SUFFIX,xhamster.desi,REJECT
 HOST-SUFFIX,xhamster.xxx,REJECT
