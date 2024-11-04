@@ -89,7 +89,7 @@ HOST-SUFFIX,erolabs.online,REJECT
 HOST-SUFFIX,fans66.tw,REJECT
 HOST-SUFFIX,fansking.tw,REJECT
 HOST-SUFFIX,fansta.me,REJECT
-HOST-SUFFIX,full:misa-prod.s3.ap-northeast-1.amazonaws.com,REJECT
+HOST,misa-prod.s3.ap-northeast-1.amazonaws.com,REJECT
 HOST-SUFFIX,2023aga.oen.tw,REJECT
 HOST-SUFFIX,aga-expo.com,REJECT
 HOST-SUFFIX,cosfans-tw.com,REJECT
@@ -404,7 +404,7 @@ HOST-SUFFIX,xhamster18.com,REJECT
 HOST-SUFFIX,xhamster18.desi,REJECT
 HOST-SUFFIX,xhamsterlive.com,REJECT
 HOST-SUFFIX,xhcdn.com,REJECT
-HOST-SUFFIX,full:widgets.stripst.com,REJECT
+HOST,widgets.stripst.com,REJECT
 HOST-SUFFIX,avstar01.me,REJECT
 HOST-SUFFIX,avstar02.me,REJECT
 HOST-SUFFIX,avstar03.me,REJECT
@@ -6308,7 +6308,7 @@ HOST-SUFFIX,zzdh77.com,REJECT
 HOST-SUFFIX,zzdh808.com,REJECT
 HOST-SUFFIX,zzdh99.com,REJECT
 HOST-SUFFIX,zzgays.com,REJECT
-HOST-SUFFIX,full:anime-rule34-world.b-cdn.net,REJECT
+HOST,anime-rule34-world.b-cdn.net,REJECT
 HOST-SUFFIX,xn--096-4g6em5t.com,REJECT
 HOST-SUFFIX,xn--201-4g6em5t.com,REJECT
 HOST-SUFFIX,xn--202-4g6em5t.com,REJECT
